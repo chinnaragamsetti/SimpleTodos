@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.mainbg {
+  height: 100vh;
+  background-color: wheat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.innerbg {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 10px;
+}
+.listsContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  justify-content: space-between;
+}
+.h {
+  font-size: 40px;
+  color: orange;
+}

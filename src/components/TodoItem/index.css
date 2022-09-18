@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.listContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.h2 {
+  font-size: 20px;
+  color: black;
+}
+.butt {
+  border: 2px solid pink;
+  color: pink;
+  background-color: transparent;
+}
